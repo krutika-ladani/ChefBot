@@ -61,7 +61,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 jupyter notebook
 ```
 
-5. Open the `chefbot.ipynb` notebook in Jupyter Notebook.
+5. Open the `main.ipynb` notebook in Jupyter Notebook.
 
 6. Execute the cells to run the ChefBot recipe generator chatbot.
 
